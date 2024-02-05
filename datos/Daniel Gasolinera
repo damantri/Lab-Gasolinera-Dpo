@@ -1,0 +1,13 @@
+tipo:Corriente:12000:8.0
+tipo:Diesel:20000:65.0
+tipo:Premium:30000:2929.0
+tipo:ultra:13000:209.0
+surtidor:Thomas Mancilla:Corriente:0.0:Diesel:0.0:Premium:0.0:ultra:0.0
+surtidor:Daniel Rivera:Corriente:0.0:Diesel:0.0:Premium:0.0:ultra:0.0
+surtidor:Daniel Rivera:Corriente:0.0:Diesel:0.0:Premium:0.0:ultra:0.0
+surtidor:Thomas Mancilla:Corriente:0.0:Diesel:0.0:Premium:0.0:ultra:0.0
+empleado:Thomas Mancilla:0
+empleado:Salome Mariana:0
+empleado:Andrea Figueroa:0
+empleado:Daniel Rivera:0
+empleado:Daniel Mancilla:0
